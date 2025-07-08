@@ -45,6 +45,7 @@ Successfully cracked the password:
 
 Username: elliot
 Password: ER28-0652
+
 Conclusion:
 The site is running an outdated WordPress version vulnerable to XML-RPC attacks.
 
